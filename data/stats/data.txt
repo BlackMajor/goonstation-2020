@@ -1,0 +1,2 @@
+
+data_type=deaths&data_status=insert&data_timestamp=2020-02-18+17%3a48%3a51&mob_name=Ricky+Zoucks&mob_job=Captain&mob_byond_key=BlackMajor&x=277&y=71&z=5&bruteloss=0&fireloss=43.25&toxloss=0&oxyloss=85.7&gibbed=0
